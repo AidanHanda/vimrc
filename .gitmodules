@@ -1,0 +1,12 @@
+[submodule "my_plugins/typescript-vim"]
+	path = my_plugins/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "my_plugins/youcompleteme"]
+	path = my_plugins/youcompleteme
+	url = https://github.com/valloric/youcompleteme
+[submodule "my_plugins/jedi-vim"]
+	path = my_plugins/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "my_plugins/vim-jsx-typescript"]
+	path = my_plugins/vim-jsx-typescript
+	url = https://github.com/peitalin/vim-jsx-typescript
