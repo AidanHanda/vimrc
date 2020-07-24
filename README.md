@@ -18,7 +18,7 @@ The awesome version includes a lot of great plugins, configurations and color sc
 
 	git clone --depth=1 --recurse-submodules https://github.com/AidanHanda/vimrc ~/.vim_runtime
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
-    sh ~/.vim_runtime/install_zsh.sh
+    sh ~/.vim_runtime/install_zshrc.sh
     sh ~/.vim_runtime/install_tmux_conf.sh
 	
 ### Install for multiple users
