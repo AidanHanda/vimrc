@@ -13,3 +13,9 @@
 [submodule ".tmux"]
 	path = .tmux
 	url = https://github.com/gpakosz/.tmux
+[submodule "my_plugins/vim-elixir"]
+	path = my_plugins/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir
+[submodule "my_plugins/alchemist.vim"]
+	path = my_plugins/alchemist.vim
+	url = https://github.com/slashmili/alchemist.vim
